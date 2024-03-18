@@ -1,1 +1,3 @@
 SemosGit
+1 chas SemosGit
+nekoi git komandi
